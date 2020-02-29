@@ -2,4 +2,7 @@ package main;
 
 
 
-function add()
+function add() {
+	return 1+2
+}
+
