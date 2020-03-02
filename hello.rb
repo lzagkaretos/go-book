@@ -1,9 +1,9 @@
-#! /usr/bin/env ruby
+#! /usr/bin/env - add some more comment
 
 # prints out a greeting
 
 def hello
-  puts 'hello world'
+  puts 'hello mundo'
 end
 
 hello()
